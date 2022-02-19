@@ -1,0 +1,8 @@
+[package]
+name = "hw_tests" 
+version = "0.1.0" 
+
+[[bin]]
+name = "test"
+# replace this file with the file you want to run
+path = "src/002.rs"
